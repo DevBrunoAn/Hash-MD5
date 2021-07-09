@@ -1,0 +1,4 @@
+import criptografia
+
+criptografia.cript()
+
